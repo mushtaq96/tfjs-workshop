@@ -1,4 +1,4 @@
-# tfjs-workshop
+# tfjs-workshop - This is pretty cool i mean you can train your model onto the web brwser itself
 
 Contains material for a [TensorFlow.js workshop](https://www.meetup.com/Machine-Learning-Tokyo/events/260167619/).
 
